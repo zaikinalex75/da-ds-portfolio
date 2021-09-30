@@ -10,7 +10,7 @@
 
 - **Стек:** python, pandas, matplotlib, scipy.
 
-- [Проект](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/abc-telecom)
+- [abc-telecom](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/abc-telecom)
 
 # vk-addiction
 - **Цели:** оценка степени зависимости подростка от социальной сети ВКонтакте.  
@@ -19,7 +19,7 @@
 
 - **Стек:** python, requests, pandas, matplotlib.
 
-- [Проект](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/vk-addiction)
+- [vk-addiction](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/vk-addiction)
 
 # toxic-comments
 - **Цели:** выявление токсичных комментариев к товарам интернет-магазина.
@@ -28,7 +28,7 @@
 
 - **Стек:** python, pandas, nltk, scikit-learn, LightGBM, CatBoost, XGBoost. 
 
-- [Проект](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/toxic-comments)
+- [toxic-comments](https://github.com/zaikinalex75/da-ds-portfolio/tree/main/toxic-comments)
 
 # yandex.dzen
 - **Цели:** визуализация статистики использования карточек Яндекс.Дзен.
